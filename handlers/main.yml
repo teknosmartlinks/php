@@ -1,0 +1,7 @@
+---
+# handlers file for php
+ - name: Restart apache
+   service:
+        name: httpd
+        enabled: yes
+        state: restarted
