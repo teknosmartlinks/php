@@ -4,4 +4,4 @@
    become: yes 
 
    roles:
-   - php
+   - /home/tekno/roles/php
