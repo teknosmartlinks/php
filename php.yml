@@ -4,4 +4,8 @@
    become: yes 
 
    roles:
+<<<<<<< HEAD
    - php
+=======
+   - /home/tekno/roles/php
+>>>>>>> cc3780c52fbd22f023871abf3392d36ee6cff754
