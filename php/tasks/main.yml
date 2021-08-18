@@ -1,0 +1,5 @@
+---
+# tasks file for phpa
+ - include_tasks: pkg.yml
+ - include_tasks: firewalld.yml
+ - include_tasks: setup.yml
